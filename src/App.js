@@ -1,7 +1,12 @@
 import React from 'react';
+import Nav from './components/Nav';
+
 
 function App() {
     return (
+        <Nav>
+
+        </Nav>
         <div>
             <main>
                 <About></About>
@@ -9,6 +14,6 @@ function App() {
 
 
         </div>
-    )
+    );
 }
 export default App;
