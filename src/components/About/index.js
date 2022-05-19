@@ -1,13 +1,11 @@
 import React from "react";
 import coverImage from "../../Assets/img/digitalhand.jpg"
 
-class About extends React.Component {
-  render() {
+function About() {
     return (
-      <section id="about-me" className="bio">
-        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
-        <h2 className="title">About Me</h2>
-        <p>
+      <section  className="bio">
+        <h2 id="about-me" className="title">About Me</h2>
+        <p class="text-dark">
           Hello I'm Dennis Moloney. I have been in the I.T. field for over 25
           years. I graduated from a technical institute for pc repair right out
           of H.S. I started this career with a little company building computers
@@ -34,9 +32,10 @@ class About extends React.Component {
           Bobby Hoffman(TA), Jasper Abarquez(TA) , and John Titus(TA) for their help and support
           during my learning career.
         </p>
+        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       </section>
     );
   }
-}
+
 
 export default About;

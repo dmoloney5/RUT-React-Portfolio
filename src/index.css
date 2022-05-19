@@ -25,6 +25,7 @@ main {
 html,
 body {
   min-height: 100%;
+  background-color: #000000;
 }
 
 body {
@@ -157,9 +158,7 @@ header ul li {
     height: 400px;
     width: auto;
     margin-bottom: 25px;
-    background-image: url("images/digitalhand.jpg");
-    background-size: cover;
-    background-position: center;
+    
 }
 
 /* End of Hero Section */

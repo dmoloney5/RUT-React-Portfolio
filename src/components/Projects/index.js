@@ -2,11 +2,11 @@ import React from "react";
 
 
 
-class Projects extends React.Component {
-  render() {
+function Projects() {
+ 
     return (
-      <section id="projects" className="project">
-        <h2 className="title">Websites</h2>
+      <section className="project">
+        <h2 id="projects" className="title">Websites</h2>
         <div className="project" >
           <h3>Project 1 - Run Buddy Website</h3>
           <div className="project-img">
@@ -133,6 +133,6 @@ class Projects extends React.Component {
       </section>
     );
   }
-}
+
 
 export default Projects;
