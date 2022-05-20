@@ -1,8 +1,8 @@
 {
   "name": "rut-react-portfilo",
   "version": "0.1.0",
-  "private": true,
-  "Homepage": "http://dmoloney5.github.io/Rut-react-portfolio",
+  "private": false,
+  "Homepage": "https://dmoloney5.github.io/Rut-react-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
