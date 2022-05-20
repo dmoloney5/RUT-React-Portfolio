@@ -28,6 +28,6 @@ RUT-React-Portfolio
   Nodejs, ExpressJS, MongoDB, React, Bootstrap and mongoose
   
   ## ScreenShot
-  ![screenshot]
+  ![screenshot](https://github.com/dmoloney5/RUT-React-Portfolio/blob/main/src/images/Dennis_Moloney_Portfolio.jpg)
 
   
