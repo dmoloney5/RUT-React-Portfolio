@@ -9,7 +9,9 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 ReactDOM.render(
     <React.StrictMode>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <App />
+        </BrowserRouter>
     </React.StrictMode>,
     document.getElementById('root')
 );
