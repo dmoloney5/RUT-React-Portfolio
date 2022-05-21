@@ -19,15 +19,15 @@ function About() {
           Once I left there I was working for a small SaaS company. My job was
           been the whole IT department. I worked closely with the development
           team and had interest in learning web design. I'm currently in Rutgers
-          University learning to become a Full Stack Web Developer. Below you
-          will find the project I've worked on. This website is my first front
-          end website I coded. In the first 8 weeks of the Rutgers BootCamp I
-          learned how to use html, css, and javascript to build a website. I also
-          learn to use API, and client-side API also how to store hitory and
-          other data to local storage. Below under website project 1-5 are
+          University learning to become a Full Stack Web Developer. Click on the link
+          above to see my project I've worked on. This website has been converted from
+          a basic HTML and CSS to using React(MERN). In the first 8 weeks of the Rutgers BootCamp I
+          learned how to use html, css, and javascript to build a website (Front-End). In the following 8 weeks I
+          learned to use MySQl and MongoDB to interact with several websites (Back-End).  The last 8 weeks was
+          learning the M.E.R.N (Mongo, ExpressJS, React and NodeJS) way of programming (Front-End and Back-End). I also
+          learned to use API, and client-side API to extract data. Below under website project 1-5 are
           different websited I built in the front-end development course. Now projects
-          6-9 are the focus on the backend.  I learned to use MySQl, MongoDB, Node.js,
-          Express.JS and React.  Now project 10 is my final group project for everything
+          6-9 are the focus on the backend. Now project 10 is my final group project for everything
           we learned throughout this 6 month BootCamp.  I want to thank Kevin Ferguson, 
           Bobby Hoffman(TA), Jasper Abarquez(TA) , and John Titus(TA) for their help and support
           during my learning career.
