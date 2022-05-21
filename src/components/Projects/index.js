@@ -120,7 +120,7 @@ function Projects() {
           <h3>Project 10 - Under Contruction</h3>
           <div className="project-img">
             <p>
-              <a href="" target="_blank">
+              <a href="http://uc.html" target="_blank">
                 <img
                   src="images/under-construction_sign.jpg"
                   alt="Currently Under Construction" width="450" height="400"
