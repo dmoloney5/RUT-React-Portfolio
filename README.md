@@ -18,10 +18,10 @@ RUT-React-Portfolio
   Dennis Moloney
 
   ## Website
-  
+  https://dmoloney5.github.io/RUT-React-Portfolio/
 
   ## Repository
-  https://github.com/dmoloney5/RUT-Week18-Social-Networking-API.git
+  https://github.com/dmoloney5/RUT-React-Portfolio.git
 
   ## License
   ### The following apps were used: 
