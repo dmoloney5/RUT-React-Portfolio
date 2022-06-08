@@ -122,7 +122,7 @@ function Projects() {
             <p>
               <a href="https://rut-project3-newsapi.herokuapp.com/" target="_blank">
                 <img
-                  src="images/null_and_void_news.jpg"
+                  src="images/Null_and_Void_News.jpg"
                   alt="Null and Void" width="300" height="200"
                 />
               </a>
