@@ -110,20 +110,20 @@ function Projects() {
               <a href="https://rut-week19-budget-tracker.herokuapp.com/" target="_blank">
                 <img
                   src="images/Budget_Tracker.jpg"
-                  alt="Currently Under Construction" width="450" height="400"
+                  alt="Budget Tracker" width="450" height="400"
                 />
               </a>
             </p>
           </div>
         </div>
         <div className="project">
-          <h3>Project 10 - Under Contruction</h3>
-          <div className="project-img">
+          <h3>Project 3 News API React</h3>
+          <div className="news-api">
             <p>
-              <a href="http://uc.html" target="_blank">
+              <a href="https://rut-project3-newsapi.herokuapp.com/" target="_blank">
                 <img
-                  src="images/under-construction_sign.jpg"
-                  alt="Currently Under Construction" width="450" height="400"
+                  src="images/null_and_void_news.png"
+                  alt="Null and Void" width="450" height="400"
                 />
               </a>
             </p>
